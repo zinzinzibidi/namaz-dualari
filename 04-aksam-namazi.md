@@ -6,6 +6,8 @@ Kıyama dururuz.
 
 "Niyet ettim Allah rızası için akşam namazının farzını kılmaya" deriz. "Allahu ekber" diyerek iftitah tekbiri alırız.
 
+<br>
+
 ### Subhâneke
 
 <p dir="ltr" style="text-align: left;"> سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ (وَجَلَّ ثَنَآئُكَ) وَلاَ اِلٰهَ غَيْرُكَ </p>

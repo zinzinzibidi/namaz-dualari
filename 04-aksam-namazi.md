@@ -273,9 +273,9 @@ Eûzu billahi mineş-şeytânirracîm.
 
 <br>
 
-* Allâhümme salli alâ Muhammedin ve alâ âli Muhammed.
-* Kemâ salleyte alâ İbrâhîme ve alâ âli İbrâhîm.
-* İnneke hamîdün mecîd.
+* Allâhümme salli alâ Muhammedin ve alâ âli Muhammed
+* Kemâ salleyte alâ İbrâhîme ve alâ âli İbrâhîm
+* İnneke hamîdün mecîd
 
 <br>
 
@@ -297,9 +297,9 @@ Eûzu billahi mineş-şeytânirracîm.
 
 <br>
 
-* Allâhümme bârik alâ Muhammedin ve alâ âli Muhammed.
-* Kemâ bârekte alâ İbrâhîme ve alâ âli İbrâhîm.
-* İnneke hamîdün mecîd.
+* Allâhümme bârik alâ Muhammedin ve alâ âli Muhammed
+* Kemâ bârekte alâ İbrâhîme ve alâ âli İbrâhîm
+* İnneke hamîdün mecîd
 
 <br>
 

@@ -154,11 +154,11 @@ Eûzu billahi mineş-şeytânirracîm.
 <br>
 
 * *De ki: İnsanların Rabbine sığınırım.*
-* *İnsanların malikine*
-* *İnsanların ilâhın*
-* *Fısıldayan vesvesecinin şerrinden*
-* *İnsanların göğüslerine vesvese verenin şerrinden*
-* *Cinlerden ve insanlardan (olan vesvesecilerden)*
+* *İnsanların Malikine.*
+* *İnsanların İlahına.*
+* *Sinsi vesvesecinin şerrinden.*
+* *Ki o, insanların göğüslerine vesvese verir.*
+* *Cinlerden ve insanlardan olanın şerrinden.*
 
 <br>
 

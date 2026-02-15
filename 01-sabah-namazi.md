@@ -4,7 +4,7 @@ Kıyama dururuz.
 
 ## I. Rekat (Ayakta)
 
-"Niyet ettim Allah rızası için akşam namazının farzını kılmaya" deriz. "Allahu ekber" diyerek iftitah tekbiri alırız.
+"Niyet ettim Allah rızası için sabah namazının farzını kılmaya" deriz. "Allahu ekber" diyerek iftitah tekbiri alırız.
 
 <br>
 

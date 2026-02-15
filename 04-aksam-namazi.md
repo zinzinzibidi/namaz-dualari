@@ -149,7 +149,7 @@ Allâhumme salli alâ Muhammedin ve alâ âli Muhammed. Kemâ salleyte alâ İbr
 
 *Allah'ım! Muhammed'e ve Muhammed'in ümmetine rahmet eyle; şerefini yücelt. İbrahim'e ve İbrahim'in ümmetine rahmet ettiğin gibi. Şüphesiz övülmeye layık yalnız sensin, şan ve şeref sahibi de sensin.*
 
-<br>
+<br><br>
 
 ### Barik
 

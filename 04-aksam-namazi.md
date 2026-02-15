@@ -2,7 +2,7 @@ Akşam namazı 3 rekat farzdan oluşur.
 
 ## I. Rekat (Ayakta)
 
-#### Subhâneke
+### Subhâneke
 
 Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ ilâhe ğayrûk
 
@@ -10,7 +10,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 
 <br>
 
-#### Fatiha
+### Fatiha
 
 * Bismillahirrahmanirrahim
 * Elhamdulillahi rabbilalemin
@@ -32,7 +32,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 
 <br>
   
-#### İhlas
+### İhlas
 
 * Kul hüvallahü ehad
 * Allahüssamed
@@ -50,7 +50,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 
 ## II. Rekat (Ayakta)
 
-#### Fatiha
+### Fatiha
 
 * Bismillahirrahmanirrahim
 * Elhamdulillahi rabbilalemin
@@ -72,7 +72,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 
 <br>
   
-#### Nas
+### Nas
 
 * Kul eûzu bi rabbin nâs
 * Melikin nâs
@@ -92,7 +92,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 
 ## II. Rekat (Secdede)
 
-#### Ettehiyyâtü
+### Ettehiyyâtü
 
 Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühennebiyyu ve rahmetullahi ve berakâtüh. Esselâmü aleynâ ve alâ ibâdillâhissâlihîn. Eşhedü en lâ ilâhe illallah ve eşhedü enne Muhammeden abdühû ve rasûlüh.
 
@@ -104,7 +104,7 @@ Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühenneb
 
 ## III. Rekat (Ayakta)
 
-#### Fatiha
+### Fatiha
 
 * Bismillahirrahmanirrahim
 * Elhamdulillahi rabbilalemin
@@ -128,7 +128,7 @@ Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühenneb
   
 ## III. Rekat (Secdede)
 
-#### Ettehiyyâtü
+### Ettehiyyâtü
 
 Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühennebiyyu ve rahmetullahi ve berakâtüh. Esselâmü aleynâ ve alâ ibâdillâhissâlihîn. Eşhedü en lâ ilâhe illallah ve eşhedü enne Muhammeden abdühû ve rasûlüh.
 
@@ -136,7 +136,7 @@ Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühenneb
 
 <br>
 
-#### Salli
+### Salli
 
 Allâhumme salli alâ Muhammedin ve alâ âli Muhammed. Kemâ salleyte alâ İbrahime ve alâ âli İbrahim. İnneke hamidun mecîd.
 
@@ -148,7 +148,7 @@ Allâhumme barik alâ Muhammedin ve alâ âli Muhammed. Kemâ barekte alâ İbra
 
 <br>
 
-#### Rabbena
+### Rabbena
 
 Rabbenâ âtina fid'dunyâ haseneten ve fil'âhirati haseneten ve kınâ azâbennâr
 
@@ -156,7 +156,7 @@ Rabbenâ âtina fid'dunyâ haseneten ve fil'âhirati haseneten ve kınâ azâben
 
 <br>
 
-#### Sağdaki ve Soldaki Meleklere Selam
+### Sağdaki ve Soldaki Meleklere Selam
 
 Es-selâmü aleyküm ve rahmetullah
 

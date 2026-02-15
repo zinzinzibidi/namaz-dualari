@@ -21,7 +21,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * Siratallezine en'amte aleyhim gayril mağdubi aleyhim veled dallin
   Amin
 
-  <br>
+<br> <br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
 * *Hamd, âlemlerin Rabbi Allah'a mahsustur*
@@ -40,7 +40,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * Lem yelid ve lem yûled
 * Ve lem yekün lehü küfüven ehad
 
- <br>
+<br> <br>
 
 * *De ki: O, Allah birdir*
 * *Allah sameddir (Her şey O'na muhtaçtır, O hiçbir şeye muhtaç değildir)*
@@ -64,7 +64,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * Siratallezine en'amte aleyhim gayril mağdubi aleyhim veled dallin
   Amin
 
-<br>
+<br> <br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
 * *Hamd, âlemlerin Rabbi Allah'a mahsustur*
@@ -84,6 +84,8 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * Min şerril vesvâsıl hannâs
 * Ellezî yuvesvisu fî sudûrin nâs
 * Minel cinneti ven nâs
+
+<br> <br>
 
 * *De ki: İnsanların Rabbine sığınırım.*
 * *İnsanların malikine*
@@ -119,7 +121,7 @@ Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühenneb
 * Siratallezine en'amte aleyhim gayril mağdubi aleyhim veled dallin
   Amin
 
-<br>
+<br> <br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
 * *Hamd, âlemlerin Rabbi Allah'a mahsustur*

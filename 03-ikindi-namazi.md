@@ -1,5 +1,7 @@
 İkindi namazı 4 rekat farzdan oluşur.
 
+Kıyama dururuz.
+
 ## I. Rekat (Ayakta)
 
 "Niyet ettim Allah rızası için ikindi namazının farzını kılmaya" deriz. "Allahu ekber" diyerek iftitah tekbiri alırız.

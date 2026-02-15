@@ -94,6 +94,20 @@ Eûzu billahi mineş-şeytânirracîm.
 
 ### Fatiha
 
+<span dir="ltr" style="text-align: left;">
+<ul dir="ltr">
+  <li> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ </li> 
+  <li> الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ </li> 
+  <li> الرَّحْمَٰنِ الرَّحِيمِ </li>
+  <li> مَالِكِ يَوْمِ الدِّينِ </li>
+  <li> إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ </li>
+  <li> اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ </li>
+  <li> صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ </li>
+</ul>
+</span>
+
+<br>
+
 * Bismillahirrahmanirrahim
 * Elhamdulillahi rabbilalemin
 * Errahmanirrahim
@@ -103,7 +117,7 @@ Eûzu billahi mineş-şeytânirracîm.
 * Siratallezine en'amte aleyhim gayril mağdubi aleyhim veled dallin
   Amin
 
-<br> <br>
+<br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
 * *Hamd, âlemlerin Rabbi Allah'a mahsustur*
@@ -117,6 +131,19 @@ Eûzu billahi mineş-şeytânirracîm.
   
 ### Nas
 
+<span dir="ltr" style="text-align: left;">
+<ul dir="ltr">
+  <li>قُلْ أَعُوذُ بِرَبِّ النَّاسِ</li>
+  <li>مَلِكِ النَّاسِ</li>
+  <li>إِلَٰهِ النَّاسِ</li>
+  <li>مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ</li>
+  <li>الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ</li>
+  <li>مِنَ الْجِنَّةِ وَالنَّاسِ</li>
+</ul>
+</span>
+
+<br>
+
 * Kul eûzu bi rabbin nâs
 * Melikin nâs
 * İlâhın nâs
@@ -124,7 +151,7 @@ Eûzu billahi mineş-şeytânirracîm.
 * Ellezî yuvesvisu fî sudûrin nâs
 * Minel cinneti ven nâs
 
-<br> <br>
+<br>
 
 * *De ki: İnsanların Rabbine sığınırım.*
 * *İnsanların malikine*

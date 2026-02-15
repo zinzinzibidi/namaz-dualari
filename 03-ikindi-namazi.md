@@ -4,6 +4,8 @@
 
 "Niyet ettim Allah rızası için ikindi namazının farzını kılmaya" deriz. "Allahu ekber" diyerek iftitah tekbiri alırız.
 
+<br>
+
 ### Subhâneke
 
 Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ ilâhe ğayrûk

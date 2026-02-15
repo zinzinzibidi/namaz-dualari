@@ -155,7 +155,7 @@ Eûzu billahi mineş-şeytânirracîm.
 
 * *De ki: İnsanların Rabbine sığınırım.*
 * *İnsanların malikine*
-* *İnsanların ilâhın
+* *İnsanların ilâhın*
 * *Fısıldayan vesvesecinin şerrinden*
 * *İnsanların göğüslerine vesvese verenin şerrinden*
 * *Cinlerden ve insanlardan (olan vesvesecilerden)*

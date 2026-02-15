@@ -65,10 +65,10 @@ Eûzu billahi mineş-şeytânirracîm.
 
 <span dir="ltr" style="text-align: left;">
 <ul dir="ltr">
-  <li>قُلْ هُوَ اللَّهُ أَحَدٌ</li>
-  <li>اللَّهُ الصَّمَدُ</li>
-  <li>لَمْ يَلِدْ وَلَمْ يُولَدْ</li>
-  <li>وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ</li>
+  <li> قُلْ هُوَ اللَّهُ أَحَدٌ </li>
+  <li> اللَّهُ الصَّمَدُ </li>
+  <li> لَمْ يَلِدْ وَلَمْ يُولَدْ </li>
+  <li> وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ </li>
 </ul>
 </span>
 
@@ -133,12 +133,12 @@ Eûzu billahi mineş-şeytânirracîm.
 
 <span dir="ltr" style="text-align: left;">
 <ul dir="ltr">
-  <li>قُلْ أَعُوذُ بِرَبِّ النَّاسِ</li>
-  <li>مَلِكِ النَّاسِ</li>
-  <li>إِلَٰهِ النَّاسِ</li>
-  <li>مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ</li>
-  <li>الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ</li>
-  <li>مِنَ الْجِنَّةِ وَالنَّاسِ</li>
+  <li> قُلْ أَعُوذُ بِرَبِّ النَّاسِ </li>
+  <li> مَلِكِ النَّاسِ </li>
+  <li> إِلَٰهِ النَّاسِ </li>
+  <li> مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ </li>
+  <li> الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ </li>
+  <li> مِنَ الْجِنَّةِ وَالنَّاسِ </li>
 </ul>
 </span>
 
@@ -168,10 +168,10 @@ Eûzu billahi mineş-şeytânirracîm.
 
 <span dir="ltr" style="text-align: left;">
 <ul dir="ltr">
-  <li>التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ</li>
-  <li>السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ</li>
-  <li>السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ</li>
-  <li>أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ</li>
+  <li> التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ </li>
+  <li> السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ </li>
+  <li> السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ </li>
+  <li> أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ </li>
 </ul>
 </span>
 
@@ -189,7 +189,6 @@ Eûzu billahi mineş-şeytânirracîm.
 * Selâm bize ve Allah’ın salih kullarına olsun.
 * Şahitlik ederim ki Allah’tan başka ilâh yoktur ve Muhammed O’nun kulu ve resulüdür.
 
-
 <br>
 
 ---
@@ -197,6 +196,20 @@ Eûzu billahi mineş-şeytânirracîm.
 ## III. Rekat (Ayakta)
 
 ### Fatiha
+
+<span dir="ltr" style="text-align: left;">
+<ul dir="ltr">
+  <li> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ </li> 
+  <li> الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ </li> 
+  <li> الرَّحْمَٰنِ الرَّحِيمِ </li>
+  <li> مَالِكِ يَوْمِ الدِّينِ </li>
+  <li> إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ </li>
+  <li> اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ </li>
+  <li> صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ </li>
+</ul>
+</span>
+
+<br>
 
 * Bismillahirrahmanirrahim
 * Elhamdulillahi rabbilalemin
@@ -207,15 +220,15 @@ Eûzu billahi mineş-şeytânirracîm.
 * Siratallezine en'amte aleyhim gayril mağdubi aleyhim veled dallin
   Amin
 
-<br> <br>
+<br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
-* *Hamd, âlemlerin Rabbi Allah'a mahsustur*
-* *Rahman ve Rahim'dir*
-* *Ceza gününün sahibidir*
-* *Yalnız sana ibadet eder, yalnız senden yardım dileriz*
-* *Bize doğru yolu göster*
-* *Nimet verdiklerinin yolunu; gazaba uğrayanların ve sapıkların yolunu değil*
+* *Hamd, âlemlerin Rabbi Allah'a mahsustur.*
+* *Rahman ve Rahim'dir.*
+* *Ceza gününün sahibidir.*
+* *Yalnız sana ibadet eder, yalnız senden yardım dileriz.*
+* *Bize doğru yolu göster.*
+* *Nimet verdiklerinin yolunu; gazaba uğrayanların ve sapıkların yolunu değil.*
 
 <br>
   
@@ -223,13 +236,39 @@ Eûzu billahi mineş-şeytânirracîm.
 
 ### Ettehiyyâtü
 
-Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühennebiyyu ve rahmetullahi ve berakâtüh. Esselâmü aleynâ ve alâ ibâdillâhissâlihîn. Eşhedü en lâ ilâhe illallah ve eşhedü enne Muhammeden abdühû ve rasûlüh.
+<span dir="ltr" style="text-align: left;">
+<ul dir="ltr">
+  <li> التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ </li>
+  <li> السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ </li>
+  <li> السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ </li>
+  <li> أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ </li>
+</ul>
+</span>
 
-*Tüm sözler, dualar ve güzel ibadetler Allah’a mahsustur. Selam, ey Peygamber, Allah’ın rahmeti ve bereketi senin üzerine olsun. Selam bizim üzerimize ve Allah’ın salih kullarının üzerine olsun. Ben şahitlik ederim ki Allah’tan başka ilah yoktur. Yine şahitlik ederim ki Muhammed O’nun kulu ve elçisidir.*
+<br>
+
+* Ettehiyyâtü lillâhi ve’s-salavâtü ve’t-tayyibât
+* Esselâmü aleyke eyyühe’n-nebiyyü ve rahmetullâhi ve berekâtüh
+* Esselâmü aleynâ ve alâ ibâdillâhi’s-sâlihîn
+* Eşhedu en lâ ilâhe illallâh ve eşhedu enne Muhammeden abduhû ve rasûlüh
+
+<br>
+
+* Tüm selamlar, namazlar ve güzel şeyler Allah’a mahsustur.
+* Selâm sana ey Peygamber! Allah’ın rahmeti ve bereketi senin üzerine olsun.
+* Selâm bize ve Allah’ın salih kullarına olsun.
+* Şahitlik ederim ki Allah’tan başka ilâh yoktur ve Muhammed O’nun kulu ve resulüdür.
 
 <br>
 
 ### Salli
+
+<span dir="ltr" style="text-align: left;">
+<ul dir="ltr">
+<li></li>
+</ul>
+</span>
+
 
 Allâhumme salli alâ Muhammedin ve alâ âli Muhammed. Kemâ salleyte alâ İbrahime ve alâ âli İbrahim. İnneke hamidun mecîd.
 

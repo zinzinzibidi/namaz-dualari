@@ -177,10 +177,10 @@ Eûzu billahi mineş-şeytânirracîm.
 
 <br>
 
-* Ettehiyyâtü lillâhi ve’s-salavâtü ve’t-tayyibât.
-* Esselâmü aleyke eyyühe’n-nebiyyü ve rahmetullâhi ve berekâtüh.
-* Esselâmü aleynâ ve alâ ibâdillâhi’s-sâlihîn.
-* Eşhedu en lâ ilâhe illallâh ve eşhedu enne Muhammeden abduhû ve rasûlüh.
+* Ettehiyyâtü lillâhi ve’s-salavâtü ve’t-tayyibât
+* Esselâmü aleyke eyyühe’n-nebiyyü ve rahmetullâhi ve berekâtüh
+* Esselâmü aleynâ ve alâ ibâdillâhi’s-sâlihîn
+* Eşhedu en lâ ilâhe illallâh ve eşhedu enne Muhammeden abduhû ve rasûlüh
 
 <br>
 

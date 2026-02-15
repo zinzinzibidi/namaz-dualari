@@ -49,7 +49,7 @@ Eûzu billahi mineş-şeytânirracîm.
 * Siratallezine en'amte aleyhim gayril mağdubi aleyhim veled dallin
   Amin
 
-<br> <br>
+<br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
 * *Hamd, âlemlerin Rabbi Allah'a mahsustur*
@@ -79,7 +79,7 @@ Eûzu billahi mineş-şeytânirracîm.
 * Lem yelid ve lem yûled
 * Ve lem yekün lehü küfüven ehad
 
-<br> <br>
+<br>
 
 * *De ki: O, Allah birdir*
 * *Allah sameddir (Her şey O'na muhtaçtır, O hiçbir şeye muhtaç değildir)*

@@ -265,43 +265,56 @@ Eûzu billahi mineş-şeytânirracîm.
 
 <span dir="ltr" style="text-align: left;">
 <ul dir="ltr">
-<li></li>
+  <li> اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ </li>
+  <li> كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ </li>
+  <li> إِنَّكَ حَمِيدٌ مَجِيدٌ </li>
 </ul>
 </span>
 
+<br>
 
-Allâhumme salli alâ Muhammedin ve alâ âli Muhammed. Kemâ salleyte alâ İbrahime ve alâ âli İbrahim. İnneke hamidun mecîd.
-
-*Allah'ım! Muhammed'e ve Muhammed'in ümmetine rahmet eyle; şerefini yücelt. İbrahim'e ve İbrahim'in ümmetine rahmet ettiğin gibi. Şüphesiz övülmeye layık yalnız sensin, şan ve şeref sahibi de sensin.*
-
-<br><br>
-
-### Barik
-
-Allâhumme barik alâ Muhammedin ve alâ âli Muhammed. Kemâ barekte alâ İbrahîme ve alâ âli İbrahim. İnneke hamidun mecîd.
-
-*Allah'ım! Muhammed'e ve Muhammed'in ümmetine hayır ve bereket ver. İbrahim'e ve İbrahim'in ümmetine verdiğin gibi. Şüphesiz övülmeye layık yalnız sensin, şan ve şeref sahibi de sensin.*
+* Allâhümme salli alâ Muhammedin ve alâ âli Muhammed.
+* Kemâ salleyte alâ İbrâhîme ve alâ âli İbrâhîm.
+* İnneke hamîdün mecîd.
 
 <br>
 
-### Rabbena
+* *Allah'ım! Muhammed'e ve Muhammed'in ailesine rahmet eyle; şerefini yücelt.*
+* *İbrahim'e ve İbrahim'in ailesine rahmet ettiğin gibi.*
+* *Şüphesiz sen övülmeye layık ve şan sahibi olansın.*
 
-Rabbenâ âtina fid'dunyâ haseneten ve fil'âhirati haseneten ve kınâ azâbennâr
+<br>
 
-*Allah'ım! Bize dünyada iyilik ve güzellik, ahirette de iyilik, güzellik ver. Bizi ateş azabından koru.*
+### Barik
+
+<span dir="ltr" style="text-align: left;">
+<ul dir="ltr">
+  <li>اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ</li>
+  <li>كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ</li>
+  <li>إِنَّكَ حَمِيدٌ مَجِيدٌ</li>
+</ul>
+</span>
+
+<br>
+
+* Allâhümme bârik alâ Muhammedin ve alâ âli Muhammed.
+* Kemâ bârekte alâ İbrâhîme ve alâ âli İbrâhîm.
+* İnneke hamîdün mecîd.
+
+<br>
+
+* *Allah'ım! Muhammed'e ve Muhammed'in ailesine bereket ihsan et.*
+* *İbrahim'e ve İbrahim'in ailesine bereket ihsan ettiğin gibi.*
+* *Şüphesiz sen övülmeye layık ve şan sahibi olansın.*
 
 <br>
 
 ### Sağdaki ve Soldaki Meleklere Selam
 
-Es-selâmü aleyküm ve rahmetullah
+<p dir="ltr" style="text-align: left;"> السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ </p>
+
+Esselâmü aleyküm ve rahmetullâh.
 
 *Allah'ın selamı ve rahmeti size olsun.*
 
 <br>
-
-
-
-
-
-

@@ -8,7 +8,7 @@ Kıyama dururuz.
 
 ### Subhâneke
 
-<p dir="ltr" style="text-align: left; font-size: 48"> سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ (وَجَلَّ ثَنَآئُكَ) وَلاَ اِلٰهَ غَيْرُكَ </p>
+<p dir="ltr" style="text-align: left; font-size: 48px;"> سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ (وَجَلَّ ثَنَآئُكَ) وَلاَ اِلٰهَ غَيْرُكَ </p>
 
 Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ ilâhe ğayrûk
 

@@ -8,6 +8,8 @@ Kıyama dururuz.
 
 ### Subhâneke
 
+سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ (وَجَلَّ ثَنَآئُكَ) وَلاَ اِلٰهَ غَيْرُكَ
+
 Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ ilâhe ğayrûk
 
 *Allah'ım! Sen eksik sıfatlardan pak ve uzaksın. Seni daima böyle tenzih eder ve överim. Senin adın mübarektir. Varlığın her şeyden üstündür. Senden başka ilah yoktur.*

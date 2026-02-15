@@ -39,6 +39,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * Lem yelid ve lem yûled
 * Ve lem yekün lehü küfüven ehad
 
+
 * *De ki: O, Allah birdir*
 * *Allah sameddir (Her şey O'na muhtaçtır, O hiçbir şeye muhtaç değildir)*
 * *Doğurmamıştır ve doğurulmamıştır*

@@ -19,8 +19,9 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * İyyake na'budu ve iyyake nesteîn
 * İhdinas siratal müstakim
 * Siratallezine en'amte aleyhim gayril mağdubi aleyhim veled dallin
-
   Amin
+
+  <br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
 * *Hamd, âlemlerin Rabbi Allah'a mahsustur*
@@ -39,6 +40,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * Lem yelid ve lem yûled
 * Ve lem yekün lehü küfüven ehad
 
+ <br>
 
 * *De ki: O, Allah birdir*
 * *Allah sameddir (Her şey O'na muhtaçtır, O hiçbir şeye muhtaç değildir)*
@@ -60,8 +62,9 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * İyyake na'budu ve iyyake nesteîn
 * İhdinas siratal müstakim
 * Siratallezine en'amte aleyhim gayril mağdubi aleyhim veled dallin
-
   Amin
+
+<br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
 * *Hamd, âlemlerin Rabbi Allah'a mahsustur*
@@ -114,8 +117,9 @@ Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühenneb
 * İyyake na'budu ve iyyake nesteîn
 * İhdinas siratal müstakim
 * Siratallezine en'amte aleyhim gayril mağdubi aleyhim veled dallin
-
   Amin
+
+<br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
 * *Hamd, âlemlerin Rabbi Allah'a mahsustur*

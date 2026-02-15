@@ -1,5 +1,7 @@
 Akşam namazı 3 rekat farzdan oluşur.
 
+Kıyama dururuz.
+
 ## I. Rekat (Ayakta)
 
 "Niyet ettim Allah rızası için akşam namazının farzını kılmaya" deriz. "Allahu ekber" diyerek iftitah tekbiri alırız.

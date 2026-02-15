@@ -52,12 +52,12 @@ Eûzu billahi mineş-şeytânirracîm.
 <br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
-* *Hamd, âlemlerin Rabbi Allah'a mahsustur*
-* *Rahman ve Rahim'dir*
-* *Ceza gününün sahibidir*
-* *Yalnız sana ibadet eder, yalnız senden yardım dileriz*
-* *Bize doğru yolu göster*
-* *Nimet verdiklerinin yolunu; gazaba uğrayanların ve sapıkların yolunu değil*
+* *Hamd, âlemlerin Rabbi Allah'a mahsustur.*
+* *Rahman ve Rahim'dir.*
+* *Ceza gününün sahibidir.*
+* *Yalnız sana ibadet eder, yalnız senden yardım dileriz.*
+* *Bize doğru yolu göster.*
+* *Nimet verdiklerinin yolunu; gazaba uğrayanların ve sapıkların yolunu değil.*
 
 <br>
   
@@ -120,12 +120,12 @@ Eûzu billahi mineş-şeytânirracîm.
 <br>
 
 * *Rahman ve Rahim olan Allah'ın adıyla*
-* *Hamd, âlemlerin Rabbi Allah'a mahsustur*
-* *Rahman ve Rahim'dir*
-* *Ceza gününün sahibidir*
-* *Yalnız sana ibadet eder, yalnız senden yardım dileriz*
-* *Bize doğru yolu göster*
-* *Nimet verdiklerinin yolunu; gazaba uğrayanların ve sapıkların yolunu değil*
+* *Hamd, âlemlerin Rabbi Allah'a mahsustur.*
+* *Rahman ve Rahim'dir.*
+* *Ceza gününün sahibidir.*
+* *Yalnız sana ibadet eder, yalnız senden yardım dileriz.*
+* *Bize doğru yolu göster.*
+* *Nimet verdiklerinin yolunu; gazaba uğrayanların ve sapıkların yolunu değil.*
 
 <br>
   

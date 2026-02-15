@@ -16,6 +16,10 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 
 <br>
 
+Eûzu billahi mineş-şeytânirracîm.
+
+*Kovulmuş şeytanın şerrinden Allah’a sığınırım.* 
+
 ### Fatiha
 
 * Bismillahirrahmanirrahim

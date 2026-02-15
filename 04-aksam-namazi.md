@@ -10,7 +10,7 @@ Kıyama dururuz.
 
 <p dir="ltr" style="text-align: left; font-size: 48px;"> سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ (وَجَلَّ ثَنَآئُكَ) وَلاَ اِلٰهَ غَيْرُكَ </p>
 
-<p style="font-size: 68px;">This entire paragraph is larger.</p>
+<span style="font-size: 74px;">large text</span>
 
 Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ ilâhe ğayrûk
 

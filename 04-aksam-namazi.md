@@ -18,6 +18,8 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 
 <br>
 
+<p dir="ltr" style="text-align: left;"> أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ </p>
+
 Eûzu billahi mineş-şeytânirracîm.
 
 *Kovulmuş şeytanın şerrinden Allah’a sığınırım.* 

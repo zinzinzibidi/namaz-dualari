@@ -313,11 +313,7 @@ Eûzu billahi mineş-şeytânirracîm.
 
 <p dir="ltr" style="text-align: left;"> رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ </p>
 
-<br>
-
 Rabbena âtina fiddünyâ haseneten ve fil âhireti haseneten ve kınâ azâben nâr.
-
-<br>
 
 *Bize dünyada iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.*
 

@@ -309,6 +309,20 @@ Eûzu billahi mineş-şeytânirracîm.
 
 <br>
 
+### Rabbena
+
+<p dir="ltr" style="text-align: left;"> رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ </p>
+
+<br>
+
+Rabbena âtina fiddünyâ haseneten ve fil âhireti haseneten ve kınâ azâben nâr.
+
+<br>
+
+*Bize dünyada iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.*
+
+<br>
+
 ### Sağdaki ve Soldaki Meleklere Selam
 
 <p dir="ltr" style="text-align: left;"> السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ </p>

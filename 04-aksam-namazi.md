@@ -11,7 +11,7 @@ Kıyama dururuz.
 > [!Tip]
 > lorem
 
-<div style="text-align: left"> سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ (وَجَلَّ ثَنَآئُكَ) وَلاَ اِلٰهَ غَيْرُكَ </div>
+<div style="text-align: center"> سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ (وَجَلَّ ثَنَآئُكَ) وَلاَ اِلٰهَ غَيْرُكَ </div>
 
 Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ ilâhe ğayrûk
 

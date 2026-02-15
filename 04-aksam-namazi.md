@@ -1,4 +1,4 @@
-3 rekat farz
+Akşam namazı 3 rekat farzdan oluşur.
 
 ## I. Rekat (Ayakta)
 

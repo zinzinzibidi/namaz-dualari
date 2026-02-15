@@ -166,9 +166,29 @@ Eûzu billahi mineş-şeytânirracîm.
 
 ### Ettehiyyâtü
 
-Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühennebiyyu ve rahmetullahi ve berakâtüh. Esselâmü aleynâ ve alâ ibâdillâhissâlihîn. Eşhedü en lâ ilâhe illallah ve eşhedü enne Muhammeden abdühû ve rasûlüh.
+<span dir="ltr" style="text-align: left;">
+<ul dir="ltr">
+  <li>التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ</li>
+  <li>السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ</li>
+  <li>السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ</li>
+  <li>أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ</li>
+</ul>
+</span>
 
-*Tüm sözler, dualar ve güzel ibadetler Allah’a mahsustur. Selam, ey Peygamber, Allah’ın rahmeti ve bereketi senin üzerine olsun. Selam bizim üzerimize ve Allah’ın salih kullarının üzerine olsun. Ben şahitlik ederim ki Allah’tan başka ilah yoktur. Yine şahitlik ederim ki Muhammed O’nun kulu ve elçisidir.*
+<br>
+
+* Ettehiyyâtü lillâhi ve’s-salavâtü ve’t-tayyibât.
+* Esselâmü aleyke eyyühe’n-nebiyyü ve rahmetullâhi ve berekâtüh.
+* Esselâmü aleynâ ve alâ ibâdillâhi’s-sâlihîn.
+* Eşhedu en lâ ilâhe illallâh ve eşhedu enne Muhammeden abduhû ve rasûlüh.
+
+<br>
+
+* Tüm selamlar, namazlar ve güzel şeyler Allah’a mahsustur.
+* Selâm sana ey Peygamber! Allah’ın rahmeti ve bereketi senin üzerine olsun.
+* Selâm bize ve Allah’ın salih kullarına olsun.
+* Şahitlik ederim ki Allah’tan başka ilâh yoktur ve Muhammed O’nun kulu ve resulüdür.
+
 
 <br>
 

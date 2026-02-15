@@ -27,6 +27,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * *Yalnız sana ibadet eder, yalnız senden yardım dileriz*
 * *Bize doğru yolu göster*
 * *Nimet verdiklerinin yolunu; gazaba uğrayanların ve sapıkların yolunu değil*
+  
 #### İhlas
 
 * Kul hüvallahü ehad
@@ -62,6 +63,7 @@ Subhâneke âllahümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük ve lâ 
 * *Yalnız sana ibadet eder, yalnız senden yardım dileriz*
 * *Bize doğru yolu göster*
 * *Nimet verdiklerinin yolunu; gazaba uğrayanların ve sapıkların yolunu değil*
+  
 #### Nas
 
 * Kul eûzu bi rabbin nâs
@@ -88,12 +90,6 @@ Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühenneb
 
 ---
 
-## II. Rekat (Ayakta)
-
-* *Hiçbir şey O'na denk ve benzer değildir*
-
----
-
 ## III. Rekat (Ayakta)
 
 #### Fatiha
@@ -115,6 +111,7 @@ Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühenneb
 * *Yalnız sana ibadet eder, yalnız senden yardım dileriz*
 * *Bize doğru yolu göster*
 * *Nimet verdiklerinin yolunu; gazaba uğrayanların ve sapıkların yolunu değil*
+  
 ## III. Rekat (Secdede)
 
 #### Ettehiyyâtü
@@ -122,6 +119,7 @@ Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühenneb
 Ettehiyyâtü lillâhi vessalavâtü vettayyibât. Esselâmü aleyke eyyühennebiyyu ve rahmetullahi ve berakâtüh. Esselâmü aleynâ ve alâ ibâdillâhissâlihîn. Eşhedü en lâ ilâhe illallah ve eşhedü enne Muhammeden abdühû ve rasûlüh.
 
 *Tüm sözler, dualar ve güzel ibadetler Allah’a mahsustur. Selam, ey Peygamber, Allah’ın rahmeti ve bereketi senin üzerine olsun. Selam bizim üzerimize ve Allah’ın salih kullarının üzerine olsun. Ben şahitlik ederim ki Allah’tan başka ilah yoktur. Yine şahitlik ederim ki Muhammed O’nun kulu ve elçisidir.*
+
 #### Salli
 
 Allâhumme salli alâ Muhammedin ve alâ âli Muhammed. Kemâ salleyte alâ İbrahime ve alâ âli İbrahim. İnneke hamidun mecîd.
@@ -131,11 +129,18 @@ Allâhumme salli alâ Muhammedin ve alâ âli Muhammed. Kemâ salleyte alâ İbr
 Allâhumme barik alâ Muhammedin ve alâ âli Muhammed. Kemâ barekte alâ İbrahîme ve alâ âli İbrahim. İnneke hamidun mecîd.
 
 *Allah'ım! Muhammed'e ve Muhammed'in ümmetine hayır ve bereket ver. İbrahim'e ve İbrahim'in ümmetine verdiğin gibi. Şüphesiz övülmeye layık yalnız sensin, şan ve şeref sahibi de sensin.*
+
 #### Rabbena
 
 Rabbenâ âtina fid'dunyâ haseneten ve fil'âhirati haseneten ve kınâ azâbennâr
 
 *Allah'ım! Bize dünyada iyilik ve güzellik, ahirette de iyilik, güzellik ver. Bizi ateş azabından koru.*
+
+#### Sağdaki ve Soldaki Meleklere Selam
+
+Es-selâmü aleyküm ve rahmetullah
+
+*Allah'ın selamı ve rahmeti size olsun.*
 
 
 
